@@ -4,12 +4,15 @@ This repo will have all the assignments and projects from Advanced MySQL course 
 
 DATASET DOWNLOAD - [LINK](https://drive.google.com/file/d/1OhEyPDz_jzhuy2rMagq70bHnecvBt4S-/view?usp=sharing)
 
-<p algin="center">
+<p algin="Center">
     <img src="https://github.com/Naveen-S6/Web_Analyst_MySQL_Course_Udemy/blob/main/Resources/dataset.png" width="200">
 </p>
 
 ### Dataset schema 
 
+<p algin="Center">
+    <img src="https://github.com/Naveen-S6/Web_Analyst_MySQL_Course_Udemy/blob/main/Resources/schema.png" width="200">
+</p>
 
 
 ## MySQL Workbench Setup - steps :
