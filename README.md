@@ -11,7 +11,7 @@ DATASET DOWNLOAD - [LINK](https://drive.google.com/file/d/1OhEyPDz_jzhuy2rMagq70
 ### Dataset schema 
 
 <p algin="center">
-    <img src="https://github.com/Naveen-S6/Web_Analyst_MySQL_Course_Udemy/blob/main/Resources/schema.png" width="400" algin="center">
+    <img src="https://github.com/Naveen-S6/Web_Analyst_MySQL_Course_Udemy/blob/main/Resources/schema.png" width="600" algin="center">
 </p>
 
 
